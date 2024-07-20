@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "PhD_Degree_Proposal"
-permalink: /PhD/
+title: "Educational background"
+permalink: /educations/
 author_profile: true
 ---
 
