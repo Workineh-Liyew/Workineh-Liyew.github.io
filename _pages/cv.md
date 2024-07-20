@@ -51,10 +51,10 @@ redirect_from:
 <body>
 
 <div class="iframe-container">
-  <iframe src="/files/pdf/CV/ENDALE's CV (1).pdf"></iframe>
+  <iframe src="/files/pdf/CV/Workineh Liyew CV.pdf"></iframe>
 </div>
 
-<a href="/files/pdf/CV/ENDALE's CV (1).pdf" class="download-link">Download CV [English Version]</a>
+<a href="/files/pdf/CV/Workineh Liyew CV.pdf" class="download-link">Download CV [here]</a>
 
 </body>
 </html>
