@@ -197,7 +197,7 @@ collections:
   portfolio:
     output: true
     permalink: /:collection/:path/
-  PhD:
+  educations:
     output: true
     permalink: /:collection/:path/   
 
@@ -249,10 +249,10 @@ defaults:
       author_profile: true
       share: true
       comment: true
-  # _PhD-Proposal
+  # _educations
   - scope:
       path: ""
-      type: PhD
+      type: educations
     values:
       layout: single
       author_profile: true

@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Educational background"
+title: "Educational Background"
 permalink: /educations/
 author_profile: true
 ---
