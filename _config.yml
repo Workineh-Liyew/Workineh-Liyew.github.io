@@ -12,11 +12,11 @@ theme:  jekyll-theme-hacker
 locale                 : "en-US"
 title                    : "About Me"
 title_separator          : "-"
-name                     : &name "HABTE ENDALE LEGESSE"
-description              : &description "Master degree student in information and communication engineering"
-url                      :  https://Etheal-lab.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "TEGEGNE WORKINEH LIYEW"
+description              : &description "Master degree student in Civil Engineering"
+url                      :  https://Workineh-Liyew.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "Etheal-lab/Etheal-lab.github.io"
+repository               : "Workineh-Liyew/Workineh-Liyew.github.io"
 teaser                   : # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -53,7 +53,7 @@ atom_feed:
   path                   : # blank (default) uses feed.xml
 
 
-background_image: /images/site-logo.png
+background_image: /images/Background.jpg
 # SEO Related
 google_site_verification :
 bing_site_verification   :
@@ -69,7 +69,7 @@ facebook:
   username               :
   app_id                 :
   publisher              :
-og_image                 : profile.png # Open Graph/Twitter default site image
+og_image                 : profile.jpg # Open Graph/Twitter default site image
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
@@ -89,16 +89,16 @@ analytics:
 
 # Site Author
 author:
-  name             : "HABTE ENDALE LEGESSE"
-  avatar           : "profile.png"
+  name             : "TEGEGNE WORKINEH LIYEW"
+  avatar           : "profile.jpg"
   bio              : "Master Degree Candidate"
   location         : "Beijing"
   employer         : "Beijing Jiaotong University"
   pubmed           :
   orcid            : "https://orcid.org/0000-0002-7516-6449"
   googlescholar    : "https://scholar.google.com/citations?user=ii8j5TIAAAAJ&hl=en"
-  email            : "endale_21@bjtu.edu.cn"
-  researchgate     : "https://www.researchgate.net/profile/Endale-Legesse-Habtee"
+  email            : "23129032@bjtu.edu.cn"
+  researchgate     : "https://www.researchgate.net/profile/Workineh-Liyew-Tegegne"
   uri              :
   bitbucket        :
   codepen          :
@@ -106,7 +106,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "Endale24"
+  github           : "Workineh-Liyew"
   gitlab           : 
   google_plus      :
   keybase          :
