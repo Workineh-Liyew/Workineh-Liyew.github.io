@@ -1,17 +1,14 @@
 ---
 title: "Research_01"
 layout: single-portfolio
-excerpt: "<img src='/images/research/ecdf.png' alt=''>"
 collection: research
 order_number: 10
 header: 
-  og_image: "research/ecdf.png"
 ---
 
 
-### Title: Depp Learning Based Rain Attenuation Prediction Modeling for Microwave and mmWave Band "
-## Type: "Master Degree Thesis"
-## Research Lab: "Beijing Jiaotong University, School of Electronics and Information Engineering, Modern Communication Research Institute"
+### Title: Location and Design of One Section of a Certain Intercity Railway
+## Type: "Bachelor Degree Thesis"
 ## General research information 
 Rain attenuation is one of the major challenges for wireless communication systems operating in microwave and millimeter wave bands. Accurate prediction of rain attenuation can help improve the performance and reliability of these systems. However, existing methods based on empirical and stochastic models have limitations in terms of accuracy, applicability, and complexity. Therefore, there is a need for novel methods that can leverage the power of data and artificial intelligence to model and predict rain attenuation.
 In recent years, deep learning has emerged as a promising technique for various applications in wireless communications, such as channel estimation, signal detection, and beamforming. Deep learning can learn complex and nonlinear patterns from large-scale data, and provide high-performance and robust solutions. In particular, recurrent neural networks (RNNs) and their variants, such as long short-term memory (LSTM) and gated recurrent unit (GRU), are suitable for modeling sequential and temporal data, such as rain attenuation time series.
