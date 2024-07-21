@@ -26,28 +26,20 @@ header:
   <img src="https://github.com/Etheal-lab/Etheal-lab.github.io/blob/main/images/software/python.svg" alt="Python Logo" height="50">
 - **C/C++:** Proficient in developing efficient and optimized code for various applications.  
   <img src="https://github.com/Etheal-lab/Etheal-lab.github.io/blob/main/images/software/CorC%2B%2B.svg" alt="C/C++ Logo" height="50">
-- **Java/CSS/HTML:** Skilled in building dynamic web applications and user interfaces.  
-  <img src="https://github.com/Etheal-lab/Etheal-lab.github.io/blob/main/images/software/java-css-html.svg" alt="Java/CSS/HTML Logo" height="50">
 
-## Network Simulation Softwares
-- **Huawei eNSP:** Proficient in simulating and configuring network topologies for testing and troubleshooting.  
+## Modeling and Simulation Softwares
+- **Abaqus:** Proficient in simulating and configuring network topologies for testing and troubleshooting.  
   <img src="https://github.com/Etheal-lab/Etheal-lab.github.io/blob/main/images/software/Huawei-eNSP.svg" alt="Huawei eNSP Logo" height="50">
-- **Wireshark:** Experienced in analyzing network traffic and troubleshooting network issues.  
+- **Plaxis 2D/3D:** Experienced in analyzing network traffic and troubleshooting network issues.  
   <img src="https://github.com/Etheal-lab/Etheal-lab.github.io/blob/main/images/software/wireshark.svg" alt="Wireshark Logo" height="50">
-- **NS3:** Skilled in network simulation and protocol analysis.  
+- **ArcMAP:** Skilled in network simulation and protocol analysis.  
   <img src="https://github.com/Etheal-lab/Etheal-lab.github.io/blob/main/images/software/ns-3.png" alt="NS3 Logo" height="50">
-- **ModelSim:** Proficient in simulating and verifying digital designs using VHDL or Verilog.  
+- **CityEngine:** Proficient in simulating and verifying digital designs using VHDL or Verilog.  
   <img src="https://github.com/Etheal-lab/Etheal-lab.github.io/blob/main/images/software/ModelSim.svg" alt="ModelSim Logo" height="50">
-
-## Software Libraries
-- **TensorFlow:** Experienced in building and training deep learning models for various tasks such as image recognition and natural language processing.  
+- **AutoCAD:** Experienced in building and training deep learning models for various tasks such as image recognition and natural language processing.  
   <img src="https://github.com/Etheal-lab/Etheal-lab.github.io/blob/main/images/software/tensorflow.svg" alt="TensorFlow Logo" height="50">
-
-## Code or Document Management Software
-- **GitHub:** Proficient in version control, collaboration, and managing repositories for software projects.  
+- **Civil3D:** Proficient in version control, collaboration, and managing repositories for software projects.  
   <img src="https://github.com/Etheal-lab/Etheal-lab.github.io/blob/main/images/software/github.svg" alt="GitHub Logo" height="50">
-- **VS Code:** Skilled in using Visual Studio Code as an integrated development environment for various programming languages.  
-  <img src="https://github.com/Etheal-lab/Etheal-lab.github.io/blob/main/images/software/vs%20code.svg" alt="VS Code Logo" height="50">
 - **MS Office:** Experienced in using Microsoft Office suite for documentation, presentation, and data analysis tasks.  
   <img src="https://github.com/Etheal-lab/Etheal-lab.github.io/blob/main/images/software/MS%20Office.svg" alt="MS Office Logo" height="50">
 
