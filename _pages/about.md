@@ -9,5 +9,5 @@ redirect_from:
 
 <div class="content">
     <h1>Welcome to My Academic Page!</h1>
-    <p>This page showcases my educational background and achievements in Civil Engineering.</p>
+    <p>I am Workineh Liyew, a masters degreee student in Civil Engineering at Beijing Jiaotong University.</p>
 </div>
