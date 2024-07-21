@@ -1,9 +1,6 @@
 ---
-title: "Research_01"
 layout: single-portfolio
 collection: research
-order_number: 10
-header: 
 ---
 
 
