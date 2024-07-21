@@ -39,8 +39,8 @@ h1 {
 .education {
   margin-bottom: 20px;
   padding: 30px;
-  border: 2px solid #007bff; /* Blue border */
-  border-radius: 5px;
+  border: 4px solid #007bff; /* Blue border */
+  border-radius: 10px;
   background: #f8f9fa; /* Light background */
   transition: transform 0.2s; /* Animation effect */
 }
@@ -52,7 +52,7 @@ h1 {
 
 .education h2 {
   color: #007bff; /* Blue heading */
-  margin-bottom: 10px;
+  margin-bottom: 4px;
 }
 
 .education p {

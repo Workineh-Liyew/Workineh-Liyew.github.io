@@ -5,7 +5,7 @@ permalink: /educations/
 author_profile: true
 ---
 
-<!DOCTYPE html>
+
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -15,7 +15,8 @@ author_profile: true
 </head>
 <body>
     <div class="container">
-        <h1>Educational Background</h1>
+        <h1>Master's Degree</h1>
+        <h2>Master's Degree</h2>
 
         <div class="education">
             <h2>University: Beijing Jiaotong University</h2>
@@ -23,7 +24,7 @@ author_profile: true
             <p><strong>Major:</strong> Civil Engineering</p>
             <p><strong>Department:</strong> Road and Railway Engineering</p>
         </div>
-
+           
         <div class="education">
             <h2>University: Southwest Jiaotong University</h2>
             <p><strong>Period:</strong> 2019/03/01 - 2023/01/15</p>
