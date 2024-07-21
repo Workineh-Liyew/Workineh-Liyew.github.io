@@ -40,6 +40,8 @@ header:
   <img src="https://github.com/Etheal-lab/Etheal-lab.github.io/blob/main/images/software/tensorflow.svg" alt="TensorFlow Logo" height="50">
 - **Civil3D:** Proficient in version control, collaboration, and managing repositories for software projects.  
   <img src="https://github.com/Etheal-lab/Etheal-lab.github.io/blob/main/images/software/github.svg" alt="GitHub Logo" height="50">
+  - **SAP 2000:** Proficient in version control, collaboration, and managing repositories for software projects.  
+  <img src="https://github.com/Etheal-lab/Etheal-lab.github.io/blob/main/images/software/github.svg" alt="GitHub Logo" height="50">
 - **MS Office:** Experienced in using Microsoft Office suite for documentation, presentation, and data analysis tasks.  
   <img src="https://github.com/Etheal-lab/Etheal-lab.github.io/blob/main/images/software/MS%20Office.svg" alt="MS Office Logo" height="50">
 
