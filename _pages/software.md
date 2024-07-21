@@ -29,7 +29,7 @@ header:
 
 ## Modeling and Simulation Softwares
 - **Abaqus:** Proficient in simulating and configuring network topologies for testing and troubleshooting.  
-  <img src="https://github.com/Etheal-lab/Etheal-lab.github.io/blob/main/images/software/Huawei-eNSP.svg" alt="Huawei eNSP Logo" height="50">
+  <img src="D:\CV\Workineh-Liyew.github.io\images\Abaqus.jfif" alt="Abaqus" height="50">
 - **Plaxis 2D/3D:** Experienced in analyzing network traffic and troubleshooting network issues.  
   <img src="https://github.com/Etheal-lab/Etheal-lab.github.io/blob/main/images/software/wireshark.svg" alt="Wireshark Logo" height="50">
 - **ArcMAP:** Skilled in network simulation and protocol analysis.  
