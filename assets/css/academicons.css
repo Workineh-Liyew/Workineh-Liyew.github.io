@@ -64,6 +64,32 @@ h1 {
   color: #343a40; /* Darker color for labels */
 }
 
+body {
+  background-image: url('http://Endale24.github.io/images/BackgroundTheme.jpg'); /* Add your background image */
+  background-size: cover;
+  background-position: center;
+  color: #ffffff; /* Change text color for better visibility */
+  font-family: Arial, sans-serif;
+}
+
+.content {
+  background-color: rgba(0, 0, 0, 0.7); /* Semi-transparent background for content */
+  padding: 20px;
+  border-radius: 10px;
+  max-width: 800px;
+  margin: auto;
+  text-align: center;
+}
+
+h1 {
+  font-size: 2.5em;
+}
+
+p {
+  font-size: 1.2em;
+}
+
+
 .ai {
 	display:inline-block;
 	font:normal normal normal 14px/1 Academicons;
