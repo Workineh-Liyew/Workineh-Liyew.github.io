@@ -3,19 +3,18 @@ collection: educations
 permalink: /educations/1-master-degree
 ---
 
-## University:   
+## Master's Degree   
 Beijing Jiaotong University
 ## period: 
-2023/09/01-2026/07/15
-## major:
+Sep 2023-July 2026
+## Major:
 Civil Engineering
 ## Department:
 Road and Railway Engineering
 
-
-## University:   
+## Bachelor Degree
 Southwest Jiaotong University
 ## period: 
 2019/03/01-2023/01/15
-## major:
+## Major:
 Civil Engineering
