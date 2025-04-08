@@ -8,10 +8,12 @@ author_profile: true
 
 <nbsp>
 
-{% include base_path %}
+---
+layout: single-portfolio
+collection: research
+---
 
-{% assign ordered_pages = site.research | sort:"order_number" %}
 
-{% for post in ordered_pages %}
-  {% include archive-single.html type="grid" %}
-{% endfor %}
+### Title: Location and Design of One Section of a Certain Intercity Railway
+## Type: "Bachelor Degree Thesis"
+## General research information 
