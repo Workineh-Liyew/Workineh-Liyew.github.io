@@ -133,7 +133,7 @@ redirect_from:
 
 <br/>
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Trophy.png" alt="Certificates" width="35" /> <span style="color: #6610F2;">Certificates & Achievements</span>
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Trophy.png" alt="" width="35" /> <span style="color: #6610F2;">Certificates & Achievements</span>
 
 <div style="background: linear-gradient(135deg, rgba(102,16,242,0.1), rgba(0,212,255,0.1)); padding: 20px; border-radius: 15px; border: 1px solid rgba(102,16,242,0.3);">
 
@@ -159,7 +159,7 @@ redirect_from:
 
 <br/>
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Rocket.png" alt="Projects" width="35" /> <span style="color: #20C997;">Featured Projects</span>
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Rocket.png" alt="" width="35" /> <span style="color: #20C997;">Featured Projects</span>
 
 <div style="background: linear-gradient(135deg, rgba(32,201,151,0.1), rgba(0,212,255,0.1)); padding: 20px; border-radius: 15px; border: 1px solid rgba(32,201,151,0.3);">
 
