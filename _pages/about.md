@@ -1,12 +1,3 @@
----
-permalink: /
-excerpt: "Welcome To My Academic Page!"
-author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
----
-
 <div class="content">
     <h1>Welcome to My Academic Page!</h1>
     <p>I am Workineh Liyew, a masters degree student in Civil Engineering at Beijing Jiaotong University.</p>
@@ -46,14 +37,14 @@ Current Focus:
 <div style="background: linear-gradient(135deg, rgba(17,218,81,0.1), rgba(255,193,7,0.1)); padding: 20px; border-radius: 15px; border: 1px solid rgba(17,218,81,0.3);">
 
 ### 🏛️ <span style="color: #28a745;">Master of Science in Civil Engineering</span>
-**[University Name]** | *[Start Year] - [Expected Graduation Year]*
+**Beijing Jiaotong University** | *[Start Year] - [Expected Graduation Year]*
 - **GPA:** [Your GPA]/4.0
 - **Relevant Coursework:** Advanced Structural Analysis, Finite Element Methods, Geotechnical Engineering
 - **Thesis/Research:** *[Brief description of your thesis or research project]*
 
 ### 🏛️ <span style="color: #28a745;">Bachelor of Science in Civil Engineering</span>
-**[University Name]** | *[Start Year] - [Graduation Year]*
-- **GPA:** [Your GPA]/4.0
+**[Southwest Jiaotong University]** | *[Start Year] - [Graduation Year]*
+- **GPA:** 3.88/4.0
 - **Relevant Coursework:** Structural Engineering, Fluid Mechanics, Soil Mechanics
 
 </div>
