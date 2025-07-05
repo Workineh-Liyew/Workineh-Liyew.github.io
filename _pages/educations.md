@@ -22,7 +22,7 @@ author_profile: true
             <p><strong>Major:</strong> Civil Engineering</p>
             <p><strong>Department:</strong> Road and Railway Engineering</p>
         </div>
-     <div class="container">
+     <div class="">
         <h2>Bachelor's Degree</h2>
         <div class="education">
             <h2>University: Southwest Jiaotong University</h2>
