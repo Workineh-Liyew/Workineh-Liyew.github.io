@@ -7,7 +7,7 @@ redirect_from:
 ---
 </div>
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=00D4FF&center=true&vCenter=true&width=940&lines=Hi%2C+I'm+Workineh+Liyew;Master's+Student+in+Civil+Engineering;Specializing+in+Highway+and+Railway+Engineering;Currently+Studying+at+Beijing+Jiaotong+University" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=00D4FF&center=true&vCenter=true&width=1200&lines=Hi%2C+I'm+Workineh+Liyew;Master's+Student+in+Civil+Engineering;Specializing+in+Highway+and+Railway+Engineering;Currently+Studying+at+Beijing+Jiaotong+University" alt="Typing SVG" />
 </div>
 
 <br/>
