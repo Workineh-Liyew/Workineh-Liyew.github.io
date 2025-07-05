@@ -16,7 +16,7 @@ author_profile: true
 <body>
     <div class="container">
         <h1>Master's Degree</h1>
-        <h2>Master's Degree</h2>
+        
 
         <div class="education">
             <h2>University: Beijing Jiaotong University</h2>
@@ -24,6 +24,8 @@ author_profile: true
             <p><strong>Major:</strong> Civil Engineering</p>
             <p><strong>Department:</strong> Road and Railway Engineering</p>
         </div>
+     <div class="container">
+        <h1>Master's Degree</h1>
            
         <div class="education">
             <h2>University: Southwest Jiaotong University</h2>
