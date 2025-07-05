@@ -147,17 +147,10 @@ redirect_from:
 
 🏅 **<span style="color: #17a2b8;">Academic Achievements</span>**
 
-- Dean's List: [Semester/Year]
-- Outstanding Student Award: Civil Engineering Department
-- Merit Scholarship: [Scholarship Name]
-- Conference Recognition: [Award/Recognition]
-
-```yaml
-- **Dean's List:** [Semester/Year]
+- **Dean's List:** Fall 2023
 - **Outstanding Student Award:** Civil Engineering Department
-- **Merit Scholarship:** [Scholarship Name]
-- **Conference Recognition:** [Award/Recognition]
-```
+- **Merit Scholarship:** Ethiopian Ministry of Education Scholarship
+- **Conference Recognition:** Best Paper Award – Railway Engineering Conference 2024
 
 </div>
 
