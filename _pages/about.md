@@ -178,19 +178,6 @@ Description of a geotechnical or foundation engineering project.
 
 <br/>
 
- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Stats" width="35" /> <span style="color: #FD7E14;">GitHub Stats</span>
-
-<div align="center" style="background: linear-gradient(135deg, rgba(253,126,20,0.1), rgba(220,53,69,0.1)); padding: 20px; border-radius: 15px; border: 1px solid rgba(253,126,20,0.3);">
-
-<img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=transparent&title_color=00D4FF&text_color=ffffff&icon_color=11DA51&bg_color=0d1117&border_color=30363d&border_radius=15" alt="GitHub Stats" width="49%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=transparent&title_color=00D4FF&text_color=ffffff&bg_color=0d1117&border_color=30363d&border_radius=15" alt="Top Languages" width="49%" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=transparent&background=0d1117&border=30363d&stroke=00D4FF&ring=11DA51&fire=FFC107&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=00D4FF&sideLabels=ffffff&dates=ffffff&border_radius=15" alt="GitHub Streak" width="70%" />
-
-</div>
-
-<br/>
-
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Telephone.png" alt="Contact" width="35" /> <span style="color: #E83E8C;">Connect With Me</span>
 
 <div align="center" style="background: linear-gradient(135deg, rgba(232,62,140,0.1), rgba(102,16,242,0.1)); padding: 20px; border-radius: 15px; border: 1px solid rgba(232,62,140,0.3);">
