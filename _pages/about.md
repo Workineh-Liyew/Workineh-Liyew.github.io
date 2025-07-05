@@ -40,13 +40,13 @@ Current Focus:
 
 <div style="background: linear-gradient(135deg, rgba(17,218,81,0.1), rgba(255,193,7,0.1)); padding: 20px; border-radius: 15px; border: 1px solid rgba(17,218,81,0.3);">
 
-### 🏛️ <span style="color: #28a745;">Master of Science in Civil Engineering</span>
+🏛️ <span style="color: #28a745;">Master of Science in Civil Engineering</span>
 **Beijing Jiaotong University** | *[Start Year] - [Expected Graduation Year]*
 - **GPA:** [Your GPA]/4.0
 - **Relevant Coursework:** Advanced Structural Analysis, Finite Element Methods, Geotechnical Engineering
 - **Thesis/Research:** *[Brief description of your thesis or research project]*
 
-### 🏛️ <span style="color: #28a745;">Bachelor of Science in Civil Engineering</span>
+🏛️ <span style="color: #28a745;">Bachelor of Science in Civil Engineering</span>
 **[Southwest Jiaotong University]** | *[Start Year] - [Graduation Year]*
 - **GPA:** 3.88/4.0
 - **Relevant Coursework:** Structural Engineering, Fluid Mechanics, Soil Mechanics
@@ -100,26 +100,26 @@ Current Focus:
 
 <div align="center">
 
-### 🏗️ **<span style="color: #e74c3c;">Structural Analysis & Design</span>**
+🏗️ **<span style="color: #e74c3c;">Structural Analysis & Design</span>**
 
 <img src="https://img.shields.io/badge/ANSYS-FFD700?style=for-the-badge&logo=ansys&logoColor=black" alt="ANSYS"/>
 <img src="https://img.shields.io/badge/Abaqus-FF6B6B?style=for-the-badge&logo=dassault-systemes&logoColor=white" alt="Abaqus"/>
 <img src="https://img.shields.io/badge/SAP2000-4ECDC4?style=for-the-badge&logo=sap&logoColor=black" alt="SAP2000"/>
 
-### 🌍 **<span style="color: #8e44ad;">Geotechnical Engineering</span>**
+ 🌍 **<span style="color: #8e44ad;">Geotechnical Engineering</span>**
 
 <img src="https://img.shields.io/badge/Plaxis-9B59B6?style=for-the-badge&logo=bentley&logoColor=white" alt="Plaxis"/>
 
-### 📐 **<span style="color: #27ae60;">Design & Drafting</span>**
+📐 **<span style="color: #27ae60;">Design & Drafting</span>**
 
 <img src="https://img.shields.io/badge/AutoCAD-E51050?style=for-the-badge&logo=autodesk&logoColor=white" alt="AutoCAD"/>
 <img src="https://img.shields.io/badge/Civil%203D-0696D7?style=for-the-badge&logo=autodesk&logoColor=white" alt="Civil 3D"/>
 
-### 🗺️ **<span style="color: #f39c12;">Geographic Information Systems</span>**
+ 🗺️ **<span style="color: #f39c12;">Geographic Information Systems</span>**
 
 <img src="https://img.shields.io/badge/ArcGIS-2C5AA0?style=for-the-badge&logo=arcgis&logoColor=white" alt="ArcGIS"/>
 
-### 💾 **<span style="color: #3498db;">Programming & Data Analysis</span>**
+ 💾 **<span style="color: #3498db;">Programming & Data Analysis</span>**
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
 <img src="https://img.shields.io/badge/MATLAB-FF8C00?style=for-the-badge&logo=mathworks&logoColor=white" alt="MATLAB"/>
@@ -131,11 +131,11 @@ Current Focus:
 
 <br/>
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Trophy.png" alt="Certificates" width="35" /> <span style="color: #6610F2;">Certificates & Achievements</span>
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Trophy.png" alt="Certificates" width="35" /> <span style="color: #6610F2;">Certificates & Achievements</span>
 
 <div style="background: linear-gradient(135deg, rgba(102,16,242,0.1), rgba(0,212,255,0.1)); padding: 20px; border-radius: 15px; border: 1px solid rgba(102,16,242,0.3);">
 
-### 📜 **<span style="color: #6f42c1;">Professional Certifications</span>**
+📜 **<span style="color: #6f42c1;">Professional Certifications</span>**
 
 <div align="center">
 
@@ -148,7 +148,7 @@ Current Focus:
 
 </div>
 
-### 🏅 **<span style="color: #17a2b8;">Academic Achievements</span>**
+🏅 **<span style="color: #17a2b8;">Academic Achievements</span>**
 
 ```yaml
 Awards:
@@ -162,18 +162,18 @@ Awards:
 
 <br/>
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Rocket.png" alt="Projects" width="35" /> <span style="color: #20C997;">Featured Projects</span>
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Rocket.png" alt="Projects" width="35" /> <span style="color: #20C997;">Featured Projects</span>
 
 <div style="background: linear-gradient(135deg, rgba(32,201,151,0.1), rgba(0,212,255,0.1)); padding: 20px; border-radius: 15px; border: 1px solid rgba(32,201,151,0.3);">
 
 <div align="center">
 
-### 🌉 **<span style="color: #20c997;">[Project Name 1]</span>**
+🌉 **<span style="color: #20c997;">[Project Name 1]</span>**
 Brief description of a significant project involving structural analysis or design.
 - **Tools Used:** ANSYS, SAP2000, AutoCAD
 - **Key Skills:** Finite element analysis, structural design, technical documentation
 
-### 🏗️ **<span style="color: #20c997;">[Project Name 2]</span>**
+🏗️ **<span style="color: #20c997;">[Project Name 2]</span>**
 Description of a geotechnical or foundation engineering project.
 - **Tools Used:** Plaxis, Civil 3D, ArcGIS
 - **Key Skills:** Soil mechanics, foundation design, spatial analysis
@@ -184,7 +184,7 @@ Description of a geotechnical or foundation engineering project.
 
 <br/>
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Stats" width="35" /> <span style="color: #FD7E14;">GitHub Stats</span>
+ <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Stats" width="35" /> <span style="color: #FD7E14;">GitHub Stats</span>
 
 <div align="center" style="background: linear-gradient(135deg, rgba(253,126,20,0.1), rgba(220,53,69,0.1)); padding: 20px; border-radius: 15px; border: 1px solid rgba(253,126,20,0.3);">
 
@@ -197,7 +197,7 @@ Description of a geotechnical or foundation engineering project.
 
 <br/>
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Telephone.png" alt="Contact" width="35" /> <span style="color: #E83E8C;">Connect With Me</span>
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Telephone.png" alt="Contact" width="35" /> <span style="color: #E83E8C;">Connect With Me</span>
 
 <div align="center" style="background: linear-gradient(135deg, rgba(232,62,140,0.1), rgba(102,16,242,0.1)); padding: 20px; border-radius: 15px; border: 1px solid rgba(232,62,140,0.3);">
 
