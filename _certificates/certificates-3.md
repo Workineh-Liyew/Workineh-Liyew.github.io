@@ -1,9 +1,9 @@
 ---
 title: "ALX Full Stack Sotware Engineering Program"
-collection: portfolio
-permalink: /portfolio/portfolio-3
+collection: certificates
+permalink: /certificates/certificates-3
 excerpt: "Certificate of Completing a 12 month ALX software full stack engineering program with a specialization in the front end <br/><img src='/images/portfolio/ALX.png'>"
-collection: portfolio
+collection: certificates
 ---
 
 **Program Objective:** 

@@ -1,9 +1,9 @@
 ---
 title: "Seeds For Future ICT Training Program, Huawei, 2022"
-collection: portfolio
-permalink: /portfolio/portfolio-4
+collection: certificates
+permalink: /certificates/certificates-4
 excerpt: "Certificate of Completing Seeds For Future ICT Training, 2022 program <br/><img src='/images/portfolio/huawei.png'>"
-collection: portfolio
+collection: certificates
 ---
 
 **Program Introduction:**

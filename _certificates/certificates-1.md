@@ -1,7 +1,7 @@
 ---
 title: "International Workshop"
-collection: portfolio
-permalink: /portfolio/portfolio-1
+collection: certificates
+permalink: /certificates/certificates-1
 excerpt: "2023 International Training Workshop on Beidou Technology and It's Application in the Belt and Road Countries and Regions <br/><img src='/images/portfolio/500x300.png' alt=''>"
 ---
   **Date and locations**

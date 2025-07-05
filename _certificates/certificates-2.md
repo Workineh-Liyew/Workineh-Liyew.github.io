@@ -1,9 +1,9 @@
 ---
 title: "Tsinghua University Innovation & Entrepreneurship Program"
-collection: portfolio
-permalink: /portfolio/portfolio-2
+collection: certificates
+permalink: /certificates/certificates-2
 excerpt: "Tsinghua University Innovation & Entrepreneurship Program, Certificate of Completion <br/><img src='/images/portfolio/tsinghua.png' alt=''>"
-collection: portfolio
+collection: certificates
 ---
 
 **Program Objective:** 
