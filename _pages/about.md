@@ -202,10 +202,10 @@ Description of a geotechnical or foundation engineering project.
 
 <div align="center" style="background: linear-gradient(135deg, rgba(232,62,140,0.1), rgba(102,16,242,0.1)); padding: 20px; border-radius: 15px; border: 1px solid rgba(232,62,140,0.3);">
 
-<a href="[Your LinkedIn Profile]"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="mailto:[your.email@domain.com]"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-<a href="[Your ResearchGate Profile]"><img src="https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white" alt="ResearchGate"/></a>
-<a href="[Your ORCID ID]"><img src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCID"/></a>
+<a href="linkedin.com/in/workineh-liyew"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="mailto:workineh1218@outlook.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+<a href="https://www.researchgate.net/profile/Workineh-Liyew-Tegegne"><img src="https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white" alt="ResearchGate"/></a>
+<a href="https://orcid.org/0009-0008-8807-0308"><img src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCID"/></a>
 
 </div>
 
