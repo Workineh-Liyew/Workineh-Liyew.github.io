@@ -174,8 +174,6 @@ Description of a geotechnical or foundation engineering project.
 
 </div>
 
-</div>
-
 <br/>
 
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Telephone.png" alt="Contact" width="35" /> <span style="color: #E83E8C;">Connect With Me</span>
