@@ -39,17 +39,20 @@ redirect_from:
 
 <div style="background: linear-gradient(135deg, rgba(17,218,81,0.1), rgba(255,193,7,0.1)); padding: 20px; border-radius: 15px; border: 1px solid rgba(17,218,81,0.3);">
 
-🏛️<span style="color: #28a745;">Master of Science in Civil Engineering</span>  
+🏛️<span style="color: #28a745;">Master of Science in Civil Engineering</span> 
+<span style="color:rgb(0, 0, 0);"> 
 - **Beijing Jiaotong University** | *Sep 2023 - July 2026*
   - **GPA:** [Your GPA]/4.0
   - **Relevant Coursework:** Advanced Structural Analysis, Finite Element Methods, Geotechnical Engineering
   - **Thesis/Research:** *[Brief description of your thesis or research project]*
+  </span>
 
 🏛️<span style="color: #28a745;">Bachelor of Science in Civil Engineering</span>
+<span style="color:rgb(0, 0, 0);">
 - **Southwest Jiaotong University** | *March 2019 - December 2022*
   - **GPA:** 3.88/4.0
   - **Relevant Coursework:** Structural Engineering, Fluid Mechanics, Soil Mechanics
-
+</span>
 </div>
 
 <br/>
@@ -57,7 +60,7 @@ redirect_from:
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Microscope.png" alt="Research" width="35" /> <span style="color: #FFC107;">Research Interests</span>
 
 <div style="background: linear-gradient(135deg, rgba(255,193,7,0.1), rgba(220,53,69,0.1)); padding: 20px; border-radius: 15px; border: 1px solid rgba(255,193,7,0.3);">
-
+<span style="color:rgb(0, 0, 0);">
 <table>
 <tr>
 <td width="50%">
@@ -88,7 +91,7 @@ redirect_from:
 </td>
 </tr>
 </table>
-
+</span>
 </div>
 
 <br/>
@@ -137,21 +140,21 @@ redirect_from:
 📜 **<span style="color: #6f42c1;">Professional Certifications</span>**
 
 <div align="center">
-
+<span style="color:rgb(0, 0, 0);">
 - 🏅 **ANSYS Certified User** - Structural Mechanics (*[Year]*) — ✅ **Certified**
 - 🏅 **Autodesk Certified User** - AutoCAD (*[Year]*) — ✅ **Certified**
 - 🏅 **ESRI ArcGIS Desktop Associate** (*[Year]*) — ✅ **Certified**
 - 🏅 **[Additional Certificate]** (*[Year]*) — ✅ **Certified**
-
+</span>
 </div>
 
 🏅 **<span style="color: #17a2b8;">Academic Achievements</span>**
-
+<span style="color:rgb(0, 0, 0);">
 - **Dean's List:** Fall 2023
 - **Outstanding Student Award:** Civil Engineering Department
 - **Merit Scholarship:** Ethiopian Ministry of Education Scholarship
 - **Conference Recognition:** Best Paper Award – Railway Engineering Conference 2024
-
+</span>
 </div>
 
 <br/>
@@ -163,15 +166,17 @@ redirect_from:
 <div align="center">
 
 🌉 **<span style="color: #20c997;">[Project Name 1]</span>**
+<span style="color:rgb(0, 0, 0);">
 Brief description of a significant project involving structural analysis or design.
 - **Tools Used:** ANSYS, SAP2000, AutoCAD
 - **Key Skills:** Finite element analysis, structural design, technical documentation
-
+</span>
 🏗️ **<span style="color: #20c997;">[Project Name 2]</span>**
+<span style="color:rgb(0, 0, 0);">
 Description of a geotechnical or foundation engineering project.
 - **Tools Used:** Plaxis, Civil 3D, ArcGIS
 - **Key Skills:** Soil mechanics, foundation design, spatial analysis
-
+</span>
 </div>
 
 <br/>
