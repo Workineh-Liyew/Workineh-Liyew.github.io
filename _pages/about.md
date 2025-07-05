@@ -40,7 +40,7 @@ Current Focus:
 
 <div style="background: linear-gradient(135deg, rgba(17,218,81,0.1), rgba(255,193,7,0.1)); padding: 20px; border-radius: 15px; border: 1px solid rgba(17,218,81,0.3);">
 
-🏛️<span style="color: #28a745;">Master of Science in Civil Engineering</span>
+🏛️<span style="color: #28a745;">Master of Science in Civil Engineering</span>\n
 **Beijing Jiaotong University** | *Sep 2023 - July 2026*
 - **GPA:** [Your GPA]/4.0
 - **Relevant Coursework:** Advanced Structural Analysis, Finite Element Methods, Geotechnical Engineering
