@@ -23,14 +23,13 @@ redirect_from:
 <div style="background: linear-gradient(135deg, rgba(12, 16, 17, 0.89), rgba(11,218,81,0.1)); padding: 20px; border-radius: 15px; border: 1px solid rgba(0, 0, 20, 0);">
 
 <span style="color:rgb(0, 0, 0);">I'm a **Master's student in Civil Engineering** with a passion for leveraging advanced computational tools and software to solve complex engineering challenges. My expertise spans structural analysis, geotechnical engineering, transportation systems, and GIS applications.
-  <div>
+
 Current Focus:
   - Advanced finite element analysis and computational modeling
   - Geotechnical engineering and soil-structure interaction
   - Infrastructure design and transportation planning
   - Spatial analysis and geographic information systems
   </span>
-  </div>
 
 </div>
 
