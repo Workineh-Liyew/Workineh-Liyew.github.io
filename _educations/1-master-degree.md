@@ -12,9 +12,3 @@ Civil Engineering
 ## Department:
 Road and Railway Engineering
 
-## Bachelor Degree
-Southwest Jiaotong University
-## period: 
-2019/03/01-2023/01/15
-## Major:
-Civil Engineering
