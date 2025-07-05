@@ -12,7 +12,7 @@ redirect_from:
     <p>I am Workineh Liyew, a masters degree student in Civil Engineering at Beijing Jiaotong University.</p>
 </div>
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=00D4FF&center=true&vCenter=true&width=940&lines=Hi%2C+I'm+%5BYour+Name%5D;Master's+Student+in+Civil+Engineering;Passionate+about+Computational+Engineering" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=00D4FF&center=true&vCenter=true&width=940&lines=Hi%2C+I'm+%5BWorkineh Liyew%5D;Master's+Student+in+Civil+Engineering;Specializing in Highway and Railway Engineering" alt="Typing SVG" />
 </div>
 
 <br/>
